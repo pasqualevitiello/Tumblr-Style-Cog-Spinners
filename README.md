@@ -32,6 +32,9 @@ jQuery(window).load(function($) {
 ```
 A good alternative is using DeSandro's <a href="https://github.com/desandro/imagesloaded">imagesLoaded</a> plugin to detect when images have been loaded.
 
+<h2>Playground</h2>
+Play with code on <a href="http://codepen.io/pasqualevitiello/pen/fluGx">Codepen</a>.
+
 <h2>Credits</h2>
 <ul>
 	<li><a href="https://dribbble.com/shots/1631956-Settings-Icons-PSD">PSD cog icons by Jiri Silha</a></li>
