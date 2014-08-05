@@ -33,7 +33,7 @@ jQuery(window).load(function($) {
 A good alternative is using DeSandro's <a href="https://github.com/desandro/imagesloaded">imagesLoaded</a> plugin to detect when images have been loaded.
 
 <h2>Playground</h2>
-Play with code on <a href="http://codepen.io/pasqualevitiello/pen/fluGx">Codepen</a>.
+Here is a <a href="http://codepen.io/pasqualevitiello/full/fluGx/">pen</a> you can play with!
 
 <h2>Credits</h2>
 <ul>
