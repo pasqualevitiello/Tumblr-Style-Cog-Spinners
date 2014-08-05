@@ -6,9 +6,13 @@ Tumblr-style cog loading animation made with CSS and SVG icons designed by <a hr
 <a href="http://pasqualevitiello.github.io/Tumblr-Style-Cog-Spinners/"><strong>View Demo</strong></a>
 
 <h2>Markup</h2>
-Include to your pages the following HTML code, just before the closing <code>&amp;lt;/body&amp;gt;</code> tag:
+Include to your pages the following HTML code, just before the closing `</body>` tag:
 
-<pre>
-&lt;div id=&quot;loader&quot; class=&quot;overlay-loader&quot;&gt; &lt;div class=&quot;loader-background color-flip&quot;&gt;&lt;/div&gt; &lt;img class=&quot;loader-icon spinning-cog&quot; src=&quot;cogs/cog01.svg&quot;&gt; &lt;/div&gt;
+```html
+<div id="loader" class="overlay-loader">
+	<div class="loader-background color-flip hide-left"></div>
+	<img class="loader-icon spinning-cog" src="cogs/cog01.svg" data-cog="cog01">
+</div>
+```
 </pre>
 
