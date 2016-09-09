@@ -40,3 +40,5 @@ Here is a <a href="http://codepen.io/pasqualevitiello/full/fluGx/">pen</a> you c
 	<li><a href="https://dribbble.com/shots/1631956-Settings-Icons-PSD">PSD cog icons by Jiri Silha</a></li>
 	<li><a href="https://www.tumblr.com/">Tumblr</a></li>
 </ul>
+
+Created and maintained by <a href="http://pasqualevitiello.com">Pasquale Vitiello</a> under <a href="https://github.com/twbs/bootstrap/blob/master/LICENSE">the MIT license</a>.
